@@ -1,0 +1,19 @@
+{
+  "ids": {
+    "note": 1,
+    "cat": 9
+  },
+  "models": {
+    "note": {},
+    "cat": {
+      "1": "{\"name\":\"Elvis\",\"age\":10,\"gender\":\"male\",\"friendly\":true,\"id\":1}",
+      "2": "{\"name\":\"Ginger\",\"age\":9,\"gender\":\"female\",\"friendly\":true,\"id\":2}",
+      "3": "{\"name\":\"Sinatra\",\"age\":5,\"gender\":\"male\",\"friendly\":true,\"id\":3}",
+      "4": "{\"name\":\"Lilith\",\"age\":7,\"gender\":\"female\",\"friendly\":false,\"id\":4}",
+      "5": "{\"name\":\"FooTest\",\"age\":2,\"gender\":\"male\",\"friendly\":false,\"id\":5}",
+      "6": "{\"name\":\"Mooby\",\"age\":9,\"gender\":\"male\",\"friendly\":false,\"id\":6}",
+      "7": "{\"name\":\"Mooby the 2nd\",\"age\":10,\"gender\":\"male\",\"friendly\":false,\"id\":7}",
+      "8": "{\"name\":\"Mooby the 3rd\",\"age\":1,\"gender\":\"male\",\"friendly\":false,\"id\":8}"
+    }
+  }
+}

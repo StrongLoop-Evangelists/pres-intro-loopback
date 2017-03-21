@@ -1,0 +1,10 @@
+Custom Crap:
+
+1) Remote Hook - modifies friendly cats
+
+2) Demonstrate URL search for friendly cats
+Then new remote method
+
+3) Show same thing via scope
+
+4) Validations
