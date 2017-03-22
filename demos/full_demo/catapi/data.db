@@ -1,0 +1,24 @@
+{
+  "ids": {
+    "User": 1,
+    "AccessToken": 1,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "cat": 6
+  },
+  "models": {
+    "User": {},
+    "AccessToken": {},
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "cat": {
+      "1": "{\"name\":\"Elvis\",\"age\":2,\"gender\":\"male\",\"picture\":\"http://placekitten.com/300/301\",\"id\":1}",
+      "2": "{\"name\":\"Sinatra\",\"age\":5,\"gender\":\"male\",\"picture\":\"http://placekitten.com/400/401\",\"id\":2}",
+      "3": "{\"name\":\"Luna\",\"age\":4,\"gender\":\"female\",\"picture\":\"http://placekitten.com/300/201\",\"id\":3}",
+      "4": "{\"name\":\"Pig\",\"age\":2,\"gender\":\"female\",\"picture\":\"http://placekitten.com/326/499\",\"id\":4}",
+      "5": "{\"name\":\"Robin\",\"age\":5,\"gender\":\"male\",\"picture\":\"http://placekitten.com/426/201\",\"id\":5}"
+    }
+  }
+}

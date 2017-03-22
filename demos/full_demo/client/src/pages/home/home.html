@@ -1,0 +1,16 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Cats
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+
+  <ion-list>
+    <ion-item *ngFor="let cat of cats" (click)="loadDetail(cat)">
+      {{cat.name}}
+    </ion-item>
+  </ion-list>
+</ion-content>
